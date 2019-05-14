@@ -1,2 +1,2 @@
 # lphw
-Learn Python the Hard Way
+Exercise of Learn Python the Hard Way
